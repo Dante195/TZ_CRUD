@@ -1,0 +1,13 @@
+D:\Games\Visual Studio\TZ_CRY\TZ_CRY\bin\Debug\TZ_CRY.exe.config
+D:\Games\Visual Studio\TZ_CRY\TZ_CRY\bin\Debug\TZ_CRY.exe
+D:\Games\Visual Studio\TZ_CRY\TZ_CRY\bin\Debug\TZ_CRY.pdb
+D:\Games\Visual Studio\TZ_CRY\TZ_CRY\bin\Debug\EntityFramework.dll
+D:\Games\Visual Studio\TZ_CRY\TZ_CRY\bin\Debug\EntityFramework.SqlServer.dll
+D:\Games\Visual Studio\TZ_CRY\TZ_CRY\bin\Debug\EntityFramework.xml
+D:\Games\Visual Studio\TZ_CRY\TZ_CRY\bin\Debug\EntityFramework.SqlServer.xml
+D:\Games\Visual Studio\TZ_CRY\TZ_CRY\bin\Debug\ru\EntityFramework.resources.dll
+D:\Games\Visual Studio\TZ_CRY\TZ_CRY\obj\Debug\TZ_CRY.csproj.AssemblyReference.cache
+D:\Games\Visual Studio\TZ_CRY\TZ_CRY\obj\Debug\TZ_CRY.csproj.CoreCompileInputs.cache
+D:\Games\Visual Studio\TZ_CRY\TZ_CRY\obj\Debug\TZ_CRY.csproj.CopyComplete
+D:\Games\Visual Studio\TZ_CRY\TZ_CRY\obj\Debug\TZ_CRY.exe
+D:\Games\Visual Studio\TZ_CRY\TZ_CRY\obj\Debug\TZ_CRY.pdb
